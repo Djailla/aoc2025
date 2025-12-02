@@ -1,0 +1,51 @@
+# Python
+*.pyc
+# vim
+*.swp
+*.swo
+# emacs
+*~
+*#
+# VS Code
+.vscode
+.classpath
+.project
+.settings/
+# sqlite
+*.sql
+*.sqlite3
+*.sqlite
+# Sphinx documentation build
+_build/
+# Testing
+.cache/
+.eggs/
+junit.xml
+# virtualenv
+.env*/
+.venv*/
+# setuptools
+*.egg-info
+dist/
+# coverage.py
+.coverage
+htmlcov/
+coverage.xml
+# Temporary data directory
+tmp/*
+.pytest_cache/*
+.tox/*
+# OSX
+.DS_Store
+# PyCharm
+.idea
+# Jupyter
+.ipynb_checkpoints/
+# Build
+dist
+sdist
+
+# output
+*.svg
+*.xlsx
+*.png
